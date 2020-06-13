@@ -1,0 +1,5 @@
+zsíroskenyér:
+végy egy szelet kenyeret
+végy zsírt
+kend meg a kenyeret zírral
+= zsíroskenyér
